@@ -1,0 +1,10 @@
+# Site settings
+title: SemIoT Project 
+email: semiot-project@gmail.com
+description: > # Semantic technologies for Internet of Things
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  semiotproject
+
+# Build settings
+markdown: kramdown

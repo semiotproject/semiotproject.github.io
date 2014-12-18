@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Site upgraded to 0.0.1"
+date:   2014-12-17 16:41:26
+lang: en
+---
+This is the first English post

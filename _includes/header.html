@@ -1,0 +1,64 @@
+{% assign current = page.url | downcase | split: '/' %}
+{% capture locale %}{{ page.url | truncate: 3, "" | remove: "/" }}{% endcapture %}
+<div id="main-wrapper">
+
+	<header class="site-header">
+
+		<div class="wrapper">
+			
+			<div id="main-logo">
+				{% if locale == 'en' %}
+					<a class="site-title" href="{{ site.baseurl }}/en">{{ site.title }}</a>
+					<a href="/" class="switch-locale">ru</a>
+				{% else %}
+					<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+					<a href="/en/" class="switch-locale">en</a>
+				{% endif %}
+			</div>
+
+			<div class="navbar">
+				<div class="navbar-collapse collapse navbar-collapse">
+					<ul class="nav navbar-nav">
+						{% if locale == 'en' %}
+							<li><a href="/en">Main</a></li>
+							{% for node in site.pages %}
+								{% if node.title %}
+									{% if node.group == "en" %}
+										{% if page.url == node.url %}
+									    	<li class="active"><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+									    {% else %}
+									    	<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+									    {% endif %}
+									{% endif %}
+								{% endif %}
+							{% endfor %}
+						{% else %}
+							<li><a href="/">Главная</a></li>
+							{% for node in site.pages %}
+								{% if node.title %}
+									{% if node.group == "ru" %}
+										{% if page.url == node.url %}
+									    	<li class="active"><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+									    {% else %}
+									    	<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+									    {% endif %}
+									{% endif %}
+								{% endif %}
+							{% endfor %}
+						{% endif %}
+						
+					</ul>
+					<form class="navbar-form navbar-right">
+						{% if locale == 'en' %}
+							<input type="text" class="form-control col-lg-8" placeholder="Search">
+						{% else %}
+							<input type="text" class="form-control col-lg-8" placeholder="Поиск">
+						{% endif %}
+					</form>
+				</div>
+			</div>
+
+		</div>
+
+	</header>
+

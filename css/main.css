@@ -1,0 +1,124 @@
+#main-wrapper {
+	width: 960px;
+	margin: auto;
+	background-color: white;
+	box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+#main-logo {
+	padding: 10px 15px 10px 30px;
+}
+
+#main-logo .site-title {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#main-logo .site-title:hover {
+	text-decoration: none;
+}
+
+#main-logo a.switch-locale {
+	float: right;
+	font-size: 14px;
+	height: 30px;
+	line-height: 45px;
+}
+
+#main-logo a.switch-locale:hover {
+	text-decoration: underline;
+}
+
+.page-content {
+	padding: 10px 30px;
+	min-height: 400px;
+}
+
+.site-footer {
+	box-shadow: 0 -2px 2px rgba(0,0,0,0.1);
+	padding: 10px 30px;
+	background: #444444;
+	background-image: -ms-linear-gradient(top, #5F5F5F 0%, #444444 100%);
+	background-image: -moz-linear-gradient(top, #5F5F5F 0%, #444444 100%);
+	background-image: -o-linear-gradient(top, #5F5F5F 0%, #444444 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #5F5F5F), color-stop(1, #444444));
+	background-image: -webkit-linear-gradient(top, #5F5F5F 0%, #444444 100%);
+	background-image: linear-gradient(top, #5F5F5F 0%, #444444 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#5F5F5F', endColorstr='#444444');
+	color: white;
+}
+
+.post-list {
+	list-style: none;
+	margin-bottom: 30px;
+}
+
+.post-list h2 {
+	margin-top: 5px;
+	font-size: 25px;
+}
+
+.copyright {
+	font-size: 10px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 80px;
+	line-height: 80px;
+}
+
+.contact-list {
+	margin-top: 10px;
+}
+
+.footer-col-wrapper {
+  font-size: 15px;
+  margin-left: -15px;
+  position: relative; }
+
+.footer-col {
+  float: left;
+  margin-bottom: 15px;
+  padding-left: 15px; }
+
+.footer-col-1 {
+  width: -webkit-calc(35% - (30px / 2));
+  width: calc(35% - (30px / 2)); }
+
+.footer-col-2 {
+  width: -webkit-calc(20% - (30px / 2));
+  width: calc(20% - (30px / 2)); }
+
+.footer-col-3 {
+  width: -webkit-calc(45% - (30px / 2));
+  width: calc(45% - (30px / 2)); }
+
+@media screen and (max-width: 800px) {
+  .footer-col-1,
+  .footer-col-2 {
+    width: -webkit-calc(50% - (30px / 2));
+    width: calc(50% - (30px / 2)); }
+
+  .footer-col-3 {
+    width: -webkit-calc(100% - (30px / 2));
+    width: calc(100% - (30px / 2)); } }
+@media screen and (max-width: 600px) {
+  .footer-col {
+    float: none;
+    width: -webkit-calc(100% - (30px / 2));
+    width: calc(100% - (30px / 2)); } }
+
+.clearfix:before,
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+.clearfix:after {
+	clear: both;
+}
+.clearfix {
+	zoom: 1; /* IE < 8 */
+}
+

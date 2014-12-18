@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Проект SemIoT 
+title: SemIoT Project
 ---
-{% assign posts=site.posts | where:"lang", "ru" %}
+
+{% assign posts=site.posts | where:"lang", "en" %}
 
 <div class="home">
 
@@ -18,6 +19,6 @@ title: Проект SemIoT
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">Подпишитесь на нас <a href="{{ "/feed.xml" | prepend: site.baseurl }}">через RSS</a>!</p>
+  <p class="rss-subscribe">Stay tuned <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>!</p>
 
 </div>
