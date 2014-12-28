@@ -16,32 +16,42 @@
 				{% endif %}
 			</div>
 
-			<div class="navbar">
-				<div class="navbar-collapse collapse navbar-collapse">
+			<div class="navbar navbar-default">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					{% if locale == 'en' %}
+						<a href="/en" class="navbar-brand">Main</a>
+					{% else %}
+						<a href="/" class="navbar-brand">Главная</a>
+					{% endif %}
+				</div>
+				<div class="navbar-collapse collapse navbar-responsive-collapse">
 					<ul class="nav navbar-nav">
 						{% if locale == 'en' %}
-							<li><a href="/en">Main</a></li>
 							{% for node in site.pages %}
 								{% if node.title %}
 									{% if node.group == "en" %}
 										{% if page.url == node.url %}
-									    	<li class="active"><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
-									    {% else %}
-									    	<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
-									    {% endif %}
+											<li class="active"><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+										{% else %}
+											<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+										{% endif %}
 									{% endif %}
 								{% endif %}
 							{% endfor %}
 						{% else %}
-							<li><a href="/">Главная</a></li>
 							{% for node in site.pages %}
 								{% if node.title %}
 									{% if node.group == "ru" %}
 										{% if page.url == node.url %}
-									    	<li class="active"><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
-									    {% else %}
-									    	<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
-									    {% endif %}
+											<li class="active"><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+										{% else %}
+											<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+										{% endif %}
 									{% endif %}
 								{% endif %}
 							{% endfor %}

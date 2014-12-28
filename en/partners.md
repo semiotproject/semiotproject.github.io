@@ -5,4 +5,4 @@ permalink: /en/partners/
 group: en
 ---
 
-Here is partners pages
+Main industrial partner - [Closed Joint Stock Company "МОРСКИЕ КОМПЬЮТЕРНЫЕ СИСТЕМЫ"](http://www.mcs.ru).
