@@ -1,3 +1,21 @@
+.home .home-desc p {
+	text-align: justify;
+}
+
+.home .home-footer {
+	margin-top: 15%;
+	text-align: center;
+}
+
+.partner-logo {
+	padding: 5px;
+}
+
+.l18n-flag {
+	width: 15px;
+	border: 1px solid;
+}
+
 ul {
 	padding-left: 15px;
 }
@@ -27,10 +45,16 @@ ul {
 }
 
 #main-logo a.switch-locale {
+	display: block;
 	float: right;
 	font-size: 14px;
 	height: 30px;
 	line-height: 45px;
+}
+
+#main-logo .switch-locale span {
+	padding: 2px;
+	vertical-align: middle;
 }
 
 #main-logo a.switch-locale:hover {
@@ -44,7 +68,7 @@ ul {
 
 #sidebar {
 	float: right;
-	width: 33%;
+	width: 30%;
 }
 #content {
 	width: 64%;
@@ -89,7 +113,6 @@ ul {
 .footer-project {
 	float: left;
 }
-
 
 .clearfix:before,
 .clearfix:after {
@@ -157,8 +180,3 @@ ul {
 
 @media screen and (max-width: 479px) {
 }
-
-
-
-
-

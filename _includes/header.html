@@ -5,14 +5,20 @@
 	<header class="site-header">
 
 		<div class="wrapper">
-			
+
 			<div id="main-logo">
 				{% if locale == 'en' %}
 					<a class="site-title" href="{{ site.baseurl }}/en">{{ site.title }}</a>
-					<a href="/" class="switch-locale">ru</a>
+					<a href="/" class="switch-locale">
+						<img class="l18n-flag" src="/resources/flag-ru.svg" alt="Русский"/>
+						<span>Русский</span>
+					</a>
 				{% else %}
 					<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-					<a href="/en/" class="switch-locale">en</a>
+					<a href="/en/" class="switch-locale">
+						<img class="l18n-flag" src="/resources/flag-gb.svg" alt="English"/>
+						<span>English</span>
+					</a>
 				{% endif %}
 			</div>
 
@@ -56,7 +62,7 @@
 								{% endif %}
 							{% endfor %}
 						{% endif %}
-						
+
 					</ul>
 					<form class="navbar-form navbar-right">
 						{% if locale == 'en' %}
@@ -71,4 +77,3 @@
 		</div>
 
 	</header>
-
