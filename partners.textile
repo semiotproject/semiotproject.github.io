@@ -7,7 +7,7 @@ group: ru
 
 h3. Лаборатория ISST
 
-p<>. Международная научная лаборатория "Интеллектуальные методы обработки информации и Семантические технологии" (ISST) образована в конце 2013 года при Университете ИТМО. 
+p<>. Международная научная лаборатория "Интеллектуальные методы обработки информации и Семантические технологии" (ISST) образована в конце 2013 года при Университете ИТМО.
 
 Веб-сайт: "http://ailab.ifmo.ru":http://ailab.ifmo.ru
 
@@ -17,7 +17,7 @@ p<>. Ведущий вуз России в области информацион
 
 Веб-сайт: "http://www.ifmo.ru":http://www.ifmo.ru
 
-p=. <iframe width="500" height="300" src="//www.youtube.com/embed/JOoz9HB5sSU" frameborder="0" allowfullscreen></iframe>
+p=. <div class="embedded-iframe"><iframe src="//www.youtube.com/embed/JOoz9HB5sSU" frameborder="0" allowfullscreen></iframe></div>
 
 h3. ЗАО "Морские Компьютерные Системы"
 
