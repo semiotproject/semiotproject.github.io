@@ -12,17 +12,17 @@ title: Главная
     <p>Уникальный идентификатор проекта: RFMEFI57514X0101</p>
   </div>
 
+  <hr/>
+  <h3>Новости</h3>
   <ul class="post-list">
-    {% for post in posts %}
+    {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%m-%d-%Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
+  <hr/>
 
   <div class="home-footer">
     <a class="partner-logo" href="http://xn--80abucjiibhv9a.xn--p1ai/">

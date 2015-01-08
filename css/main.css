@@ -3,7 +3,7 @@
 }
 
 .home .home-footer {
-	margin-top: 15%;
+	margin-top: 10%;
 	text-align: center;
 }
 
@@ -110,13 +110,9 @@ ul {
 }
 
 .post-list {
-	list-style: none;
+	list-style: square inside;
+	margin-top: 10px;
 	margin-bottom: 30px;
-}
-
-.post-list h2 {
-	margin-top: 5px;
-	font-size: 25px;
 }
 
 .copyright {
