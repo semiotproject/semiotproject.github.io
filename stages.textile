@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Этапы проекта
+title: Этапы
 permalink: /stages/
 group: ru
 ---
