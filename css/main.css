@@ -65,15 +65,18 @@ ul {
 	height: 30px;
 	line-height: 45px;
 }
+#main-logo a.switch-locale:hover {
+	text-decoration: none;
+}
+#main-logo a.switch-locale:hover span {
+	text-decoration: underline;
+}
 
 #main-logo .switch-locale span {
 	padding: 2px;
 	vertical-align: middle;
 }
 
-#main-logo a.switch-locale:hover {
-	text-decoration: underline;
-}
 
 .content-wrapper {
 	padding: 0px 15px 10px 40px;
@@ -90,7 +93,7 @@ ul {
 }
 
 .navbar {
-	padding-left: 25px;
+	padding-left: 10px;
 }
 
 .site-footer {

@@ -8,3 +8,6 @@ github_username:  semiotproject
 
 # Build settings
 markdown: kramdown
+
+default_locale: "ru"
+authorized_locales: ["ru", "en"]

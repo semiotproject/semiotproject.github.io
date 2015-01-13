@@ -5,28 +5,38 @@
 	{% include head.html %}
 
 	<body>
+	
+		<div id="main-wrapper">
+			{% include header.html %}
 
-		{% include header.html %}
-
-		<div class="content-wrapper clearfix">
-			<div id="content">
-				{{ content }}
-			</div>
-			<div id="sidebar">
-				{% if locale == 'en' %}
-					{% include sidebar-panel-en.html %}
-				{% else %}
-					{% include sidebar-panel.html %}
-				{% endif %}
-				<div id="sidebar-twitter">
-					<a class="twitter-timeline"  height="300" href="https://twitter.com/semiotproject" 
-						data-widget-id="549315300743970818">Tweets by @semiotproject</a>
-            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			<div class="content-wrapper clearfix">
+				<div id="content">
+					{{ content }}
+				</div>
+				<div id="sidebar">
+					{% if locale == 'en' %}
+						{% include sidebar-panel-en.html %}
+					{% else %}
+						{% include sidebar-panel.html %}
+					{% endif %}
+					<div id="sidebar-twitter">
+						<a class="twitter-timeline"  height="300" href="https://twitter.com/semiotproject" 
+							data-widget-id="549315300743970818">Tweets by @semiotproject</a>
+	            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</div>
 				</div>
 			</div>
-		</div>
 
-		{% include footer.html %}
+			{% include footer.html %}
+
+		</div>
+		<script src="{{ "/js/jquery-1.11.1.min.js" | prepend: site.baseurl }}"></script>
+		<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+		<script src="{{ "/js/material.min.js" | prepend: site.baseurl }}"></script>
+		<script src="{{ "/js/ripples.min.js" | prepend: site.baseurl }}"></script>
+		<script>
+			$.material.init();
+		</script>
 
 	</body>
 
