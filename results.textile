@@ -7,8 +7,8 @@ group: ru
 h4. Проектные отчеты
 
 * Этап №1 Выбор направления исследований
-** "Отчет о ПНИ (промежуточный)":{{ site.url }}/resources/results/stage_1_intermediate_report.pdf
-** "Научно-технический отчет о работах, выполненных за счет ВБС":{{ site.url }}/resources/results/stage_1_extra_funds_report.pdf
+** Отчет о ПНИ (промежуточный) "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_1_intermediate_report.pdf
+** Научно-технический отчет о работах, выполненных за счет ВБС "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_1_extra_funds_report.pdf
 
 * Этап №2 Теоретические исследования поставленных перед ПНИ задач (очередь 1)
 ** Отчет о ПНИ (промежуточный)
