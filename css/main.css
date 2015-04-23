@@ -4,6 +4,7 @@
 
 .home .home-footer {
 	margin-top: 10%;
+	margin-bottom: 5%;
 	text-align: center;
 }
 
@@ -28,6 +29,11 @@
   width: 100%;
   height: 100%;
   left: 0; top: 0;
+}
+
+.embedded-slides {
+	width: 100%;
+	margin: 20px 0 20px 0;
 }
 
 ul {
