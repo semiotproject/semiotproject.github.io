@@ -6,7 +6,7 @@ published: true
 
 p<>. Первый прототип устройства-сенсора, разрабатываемого для проекта SemIoT, был представлен на demo-стенде в рамках 17-ой конференции Ассоциации Открытых Инноваций FRUCT ("http://fruct.org/":http://fruct.org/conference17) в Ярославле.
 
-<iframe class="embedded-slides" src="https://www.slideshare.net/slideshow/embed_code/key/lwNiTmlWQ3HKs6" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="400" width="100%"></iframe>
+<iframe class="embedded-slides" src="https://www.slideshare.net/slideshow/embed_code/key/lwNiTmlWQ3HKs6" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="600" width="100%"></iframe>
 
 p<>. Международная Ассоциация Открытых Инноваций FRUCT (исторически от акронима Finnish-Russian University Cooperation in Telecommunications) поддерживает научно-исследовательскую и технологическую (R&D) работу под руководством ведущих специалистов в области информационных технологий и телекоммуникаций.
 
