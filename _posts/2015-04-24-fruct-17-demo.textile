@@ -1,0 +1,14 @@
+---
+layout: post
+title: Прототип SemIoT устройства-сенсора был представлен в рамках конференции международной Ассоциации Открытых Инноваций FRUCT
+published: true
+---
+
+p<>. Первый прототип устройства-сенсора, разрабатываемого для проекта SemIoT, был представлен на demo-стенде в рамках 17-ой конференции Ассоциации Открытых Инноваций FRUCT ("http://fruct.org/":http://fruct.org/conference17) в Ярославле.
+
+p=. !{max-width: 100%}https://dl.dropboxusercontent.com/u/39622126/Docs/semiot-shots/2015-04-23%2020.00.15.jpg!
+
+
+p<>. Международная Ассоциация Открытых Инноваций FRUCT (исторически от акронима Finnish-Russian University Cooperation in Telecommunications) поддерживает научно-исследовательскую и технологическую (R&D) работу под руководством ведущих специалистов в области информационных технологий и телекоммуникаций.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lwNiTmlWQ3HKs6" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yetanotherandreyev/presentation-47602522" title=" An implementation of CoAP protocol for Arduino and ESP8266" target="_blank"> An implementation of CoAP protocol for Arduino and ESP8266</a> </strong> from <strong><a href="//www.slideshare.net/yetanotherandreyev" target="_blank">Alexey Andreyev</a></strong> </div>
