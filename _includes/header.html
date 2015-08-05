@@ -12,8 +12,8 @@
 			<a href="{{ site.data.locales[locale].switch_lang_url }}{{ current }}" class="switch-locale">
 				<img class="l18n-flag" src="{{ site.data.locales[locale].switch_lang_img }}" alt="{{ site.data.locales[locale].switch_lang_message }}"/>
 				<span>{{ site.data.locales[locale].switch_lang_message }}</span>
-			</a> 
-		</div>		
+			</a>
+		</div>
 
 		<div class="navbar navbar-default">
 			<div class="navbar-header">
@@ -37,15 +37,20 @@
 									{% endfor %}
 								</ul>
 							</li>
-						{% else %}						
+						{% else %}
 							<li{% if page.url == link.url %} class="active"{% endif %}>
 								<a href="{{ link.url }}">{{ link.text }}</a>
-							</li>							
+							</li>
 						{% endif %}
 					{% endfor %}
 				</ul>
 				<form class="navbar-form navbar-right">
-					<input type="text" class="form-control col-lg-8" placeholder="{{ site.data.locales[locale].search_message }}">
+					<a href="https://twitter.com/semiotproject" class="btn btn-social-icon">
+						<i class="fa fa-twitter"></i>
+					</a>
+					<a href="https://github.com/semiotproject/" class="btn btn-social-icon">
+						<i class="fa fa-github"></i>
+					</a>
 				</form>
 			</div>
 		</div>

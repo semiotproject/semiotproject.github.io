@@ -44,6 +44,29 @@ ul {
 	font-weight: bold;
 }
 
+.btn-social-icon {
+	border-color: rgba(0,0,0,0.2);
+	color: white;
+	cursor: pointer;
+	display: inline-block;
+	font-family: FontAwesome;
+	font-size: 25px;
+	height: auto;
+	line-height: initial;
+	text-align: center;
+	white-space: nowrap;
+	box-sizing: border-box;
+	padding: 5px;
+	margin: 0;
+}
+.btn-social-icon:hover i.fa-twitter {
+	color: #4099FF;
+}
+
+.btn-social-icon i.fa {
+	transition: color 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
 #main-wrapper {
 	margin: auto;
 	background-color: white;
@@ -100,6 +123,13 @@ ul {
 
 .navbar {
 	padding-left: 10px;
+}
+.navbar .navbar-form {
+	margin: 0;
+	height: 60px;
+	display: block;
+	line-height: 60px;
+	padding: 0;
 }
 
 .site-footer {
