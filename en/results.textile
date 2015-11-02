@@ -28,10 +28,10 @@ h4. Project reports
 
 h4. Posters and publications
 
-* "Presentation":https://fruct.org/sites/default/files/files/conference17/02.pdf постера "An Implementation of CoAP protocol for Arduino and ESP8266"
+* "Presentation":https://fruct.org/sites/default/files/files/conference17/02.pdf of poster "An Implementation of CoAP protocol for Arduino and ESP8266"
 * Maxim Kolchin and Peter Wetz _"Demo: YABench – Yet Another RDF Stream Processing Benchmark":https://www.w3.org/community/rsp/files/2015/05/RSP_Workshop_2015_submission_14.pdf_ // Proceedings of RDF Stream Processing Workshop at ESWC 2015
 * Maxim Kolchin, Nikolay Klimov, Alexey Andreev, Ivan Shilin, Daniil Garayzuev, Dmitry Mouromtsev and Danil Zakoldaev _"Ontologies for Web of Things: a Pragmatic Review":dx.doi.org/10.1007/978-3-319-24543-0_8_ // Communications in Computer and Information Science. Vol. 518, 2015
-* Постер _"Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper":http://2015.kesw.ru/resources/semdesc_helper.pdf_, Международная конференция Knowledge Engineering and Semantic Web 2015
+* Poster _"Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper":http://2015.kesw.ru/resources/semdesc_helper.pdf_, International Conference Knowledge Engineering and Semantic Web 2015
 
 h4. Events
 
