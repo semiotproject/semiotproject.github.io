@@ -4,33 +4,43 @@ title: Results
 permalink: /en/results/
 group: en
 ---
-h4. Reports
 
-* Этап №1 Выбор направления исследований
-** Отчет о ПНИ (промежуточный) "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_1_intermediate_report.pdf
-** Научно-технический отчет о работах, выполненных за счет ВБС "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_1_extra_funds_report.pdf
+h4. Project reports
 
-* Этап №2 Теоретические исследования поставленных перед ПНИ задач (очередь 1)
-** Отчет о ПНИ (промежуточный)
-** Отчет об участии в мероприятиях
-** Научно-технический отчет о работах, выполненных за счет ВБС
+* Stage №1 Choosing areas of research
+** Result of intermediate scientific research (ISR) (intermediate) "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_1_intermediate_report.pdf
+** Scientific and technical report on the work carried out by extrabudgetary funds (EF) "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_1_extra_funds_report.pdf
 
-* Этап №3 Теоретические исследования поставленных перед ПНИ задач (очередь 2)
-** Отчет о ПНИ (промежуточный)
-** Отчет о маркетинговых исследованиях
-** Научно-технический отчет о работах, выполненных за счет ВБС
+* Stage №2 Theoretical research tasks assigned to ISR (queue 1)
+** Result of ISR (intermediate) "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_2_intermediate_report.pdf
 
-* Этап №4 Экспериментальные исследования поставленных перед ПНИ задач
-** Отчет о ПНИ (промежуточный)
+* Stage №3 Theoretical research tasks assigned to ISR (queue 2)
+** Result of ISR (intermediate)
+** Report on market research
+** Scientific and technical report on the work carried out by EF
 
-* Этап №5 Обощение и оценка результатов исследований
-** Отчет о ПНИ (итоговый)
-** Проект ТЗ на ОКР
+* Stage №4 Experimental research tasks assigned to ISR
+** Result of ISR (intermediate)
 
-h4. Publications
+* Stage №5 Generalizations and evaluation of research results
+** Result of ISR (final)
+** Technical specification for design and development work
 
-p<>. __Будут перечислены научные публикации и постерные презентации работ выполненных в рамках ПНИ.__
+h4. Posters and publications
+
+* "Presentation":https://fruct.org/sites/default/files/files/conference17/02.pdf постера "An Implementation of CoAP protocol for Arduino and ESP8266"
+* Maxim Kolchin and Peter Wetz _"Demo: YABench – Yet Another RDF Stream Processing Benchmark":https://www.w3.org/community/rsp/files/2015/05/RSP_Workshop_2015_submission_14.pdf_ // Proceedings of RDF Stream Processing Workshop at ESWC 2015
+* Maxim Kolchin, Nikolay Klimov, Alexey Andreev, Ivan Shilin, Daniil Garayzuev, Dmitry Mouromtsev and Danil Zakoldaev _"Ontologies for Web of Things: a Pragmatic Review":dx.doi.org/10.1007/978-3-319-24543-0_8_ // Communications in Computer and Information Science. Vol. 518, 2015
+* Постер _"Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper":http://2015.kesw.ru/resources/semdesc_helper.pdf_, Международная конференция Knowledge Engineering and Semantic Web 2015
 
 h4. Events
 
-p<>. __Будут перечислены мероприятия (конференции, семинары, выставки и т.д.), на которых были представлены доклады о ходе выполнения и результатах ПНИ.__
+p<>. List of events (conferences, seminars, exhibitions, etc.), where the result were presented:
+
+* "International conference FRUCT 2015":https://fruct.org/program17, Yaroslavl, Russia
+* "International conference Extended Semantic Web Conference 2015":http://2015.eswc-conferences.org/ ("RDF Stream Processing Seminar":https://www.w3.org/community/rsp/rsp-workshop-2015/), Portorož, Slovenia
+* "International conference Knowledge Engineering and Semantic Web 2015":http://2015.kesw.ru/, Moscow, Russia
+
+h4. Certificate of state registration
+
+<iframe src="https://docs.google.com/viewer?srcid=0B2UM_eIFPPHpRDZjSE5yQ1N4S3hzTF9oV2pEWDZHMDZBeXVN&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="780px"></iframe>

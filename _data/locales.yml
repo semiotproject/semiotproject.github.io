@@ -6,6 +6,9 @@ en:
     - text:   "Stages"
       url:    "/en/stages/"
       class:  "stages"
+    - text:   "Results"
+      url:    "/en/results/"
+      class:  "results"
 #     children:
 #      - text:   "1"
 #         url:    "/1/"
