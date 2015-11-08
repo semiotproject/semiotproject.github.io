@@ -7,11 +7,11 @@ group: ru
 h4. Проектные отчеты
 
 * Этап №1 Выбор направления исследований
-** Отчет о ПНИ (промежуточный) "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_1_intermediate_report.pdf
+** Отчет о ПНИ (промежуточный) "<i class="fa fa-download"></i>(Скачать)":{{ site.url }}/resources/results/stage_1_intermediate_report.pdf
 ** Научно-технический отчет о работах, выполненных за счет ВБС "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_1_extra_funds_report.pdf
 
 * Этап №2 Теоретические исследования поставленных перед ПНИ задач (очередь 1)
-** Отчет о ПНИ (промежуточный) "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_2_intermediate_report.pdf
+** Отчет о ПНИ (промежуточный) "<i class="fa fa-download"></i>(Скачать)":{{ site.url }}/resources/results/stage_2_intermediate_report.pdf
 
 * Этап №3 Теоретические исследования поставленных перед ПНИ задач (очередь 2)
 ** Отчет о ПНИ (промежуточный)
@@ -27,10 +27,10 @@ h4. Проектные отчеты
 
 h4. Публикации и постеры
 
-* "Презентация":https://fruct.org/sites/default/files/files/conference17/02.pdf постера "An Implementation of CoAP protocol for Arduino and ESP8266"
-* Maxim Kolchin and Peter Wetz _"Demo: YABench – Yet Another RDF Stream Processing Benchmark":https://www.w3.org/community/rsp/files/2015/05/RSP_Workshop_2015_submission_14.pdf_ // Proceedings of RDF Stream Processing Workshop at ESWC 2015
-* Maxim Kolchin, Nikolay Klimov, Alexey Andreev, Ivan Shilin, Daniil Garayzuev, Dmitry Mouromtsev and Danil Zakoldaev _"Ontologies for Web of Things: a Pragmatic Review":dx.doi.org/10.1007/978-3-319-24543-0_8_ // Communications in Computer and Information Science. Vol. 518, 2015
-* Постер _"Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper":http://2015.kesw.ru/resources/semdesc_helper.pdf_, Международная конференция Knowledge Engineering and Semantic Web 2015
+* Презентация постера &laquo;An Implementation of CoAP protocol for Arduino and ESP8266&raquo; "<i class="fa fa-download"></i>(Скачать)":https://fruct.org/sites/default/files/files/conference17/02.pdf
+* Maxim Kolchin and Peter Wetz &laquo;Demo: YABench – Yet Another RDF Stream Processing Benchmark&raquo; // Proceedings of RDF Stream Processing Workshop at ESWC 2015 "<i class="fa fa-download"></i>(Скачать)":https://www.w3.org/community/rsp/files/2015/05/RSP_Workshop_2015_submission_14.pdf
+* Maxim Kolchin, Nikolay Klimov, Alexey Andreev, Ivan Shilin, Daniil Garayzuev, Dmitry Mouromtsev and Danil Zakoldaev &laquo;Ontologies for Web of Things: a Pragmatic Review&raquo; // Knowledge Engineering and Semantic Web, 2015, pp. 102-116 "<i class="fa fa-download"></i>(Скачать)":http://dx.doi.org/10.1007/978-3-319-24543-0_8
+* Постер &laquo;Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper&raquo;, Международная конференция Knowledge Engineering and Semantic Web 2015 "<i class="fa fa-download"></i>(Скачать)":http://2015.kesw.ru/resources/semdesc_helper.pdf
 
 h4. Мероприятия
 
@@ -40,6 +40,6 @@ p<>. Список мероприятий (конференции, семинар
 * "Международная конференция Extended Semantic Web Conference 2015":http://2015.eswc-conferences.org/ ("Семинар RDF Stream Processing":https://www.w3.org/community/rsp/rsp-workshop-2015/), г. Порторож, Словения
 * "Международная конференция Knowledge Engineering and Semantic Web 2015":http://2015.kesw.ru/, г. Москва, Россия
 
-h4. Свидетельство о государственной регистрации
+h4. Патенты, свидетельства
 
-<iframe src="https://docs.google.com/viewer?srcid=0B2UM_eIFPPHpRDZjSE5yQ1N4S3hzTF9oV2pEWDZHMDZBeXVN&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="780px"></iframe>
+* Свидетельство о государственной регистрации программы для ЭВМ №2015660433 &laquo;Система сбора, нормализации и анализа гетерогенных данных сенсорной сети &laquo;SemIoT Platform&raquo; "<i class="fa fa-download"></i>(Скачать)":{{ site.url }}/resources/results/patent_semiot_platform.pdf
