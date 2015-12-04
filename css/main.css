@@ -1,3 +1,7 @@
+blockquote {
+	font-size: 14px;
+}
+
 .home .home-desc p {
 	text-align: justify;
 }
