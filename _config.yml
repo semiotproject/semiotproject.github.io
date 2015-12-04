@@ -1,13 +1,14 @@
 # Site settings
 title: SemIoT - Semantic Technologies for Internet of Things
 email: semiotproject@gmail.com
-description: > # Semantic technologies for Internet of Things
+description: > # Semantic Technologies for Internet of Things
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://semiot.ru" # the base hostname & protocol for your site
 github_username:  semiotproject
 
 # Build settings
 markdown: kramdown
+gems: [jekyll-textile-converter]
 
 default_locale: "ru"
 authorized_locales: ["ru", "en"]
