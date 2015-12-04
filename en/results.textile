@@ -5,7 +5,7 @@ permalink: /en/results/
 group: en
 ---
 
-h4. Project reports
+h4. Project reports ^*^
 
 * Stage №1 Choosing areas of research
 ** Report (intermediate) "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_1_intermediate_report.pdf
@@ -24,6 +24,8 @@ h4. Project reports
 * Stage №5 Generalizations and evaluation of research results
 ** Report (final)
 ** Technical specification for further design and development work
+
+^*^ _(All project reports are in Russian)_
 
 h4. Posters and publications
 
