@@ -9,9 +9,11 @@ h4. Проектные отчеты
 * Этап №1 Выбор направления исследований
 ** Отчет о ПНИ (промежуточный) "<i class="fa fa-download"></i>(Скачать)":{{ site.url }}/resources/results/stage_1_intermediate_report.pdf
 ** Научно-технический отчет о работах, выполненных за счет ВБС "<i class="fa fa-download"></i>":{{ site.url }}/resources/results/stage_1_extra_funds_report.pdf
+** Акт сдачи-приёмки работ "<i class="fa fa-download"></i>(Скачать)":{{ site.url }}/resources/results/stage_1_act.pdf
 
 * Этап №2 Теоретические исследования поставленных перед ПНИ задач (очередь 1)
 ** Отчет о ПНИ (промежуточный) "<i class="fa fa-download"></i>(Скачать)":{{ site.url }}/resources/results/stage_2_intermediate_report.pdf
+** Акт сдачи-приёмки работ "<i class="fa fa-download"></i>(Скачать)":{{ site.url }}/resources/results/stage_2_act.pdf
 
 * Этап №3 Теоретические исследования поставленных перед ПНИ задач (очередь 2)
 ** Отчет о ПНИ (промежуточный)
@@ -36,6 +38,7 @@ h4. Мероприятия
 
 p<>. Список мероприятий (конференции, семинары, выставки и т.п.), на которых были представлены промежуточные и/или итоговые результаты ПНИ:
 
+* "Выставка ВУЗПРОМЭКСПО-2105":http://vuzpromexpo.ru/, г. Москва, Россия
 * "Международная конференция FRUCT 2015":https://fruct.org/program17, г. Ярославль, Россия
 * "Международная конференция Extended Semantic Web Conference 2015":http://2015.eswc-conferences.org/ ("Семинар RDF Stream Processing":https://www.w3.org/community/rsp/rsp-workshop-2015/), г. Порторож, Словения
 * "Международная конференция Knowledge Engineering and Semantic Web 2015":http://2015.kesw.ru/, г. Москва, Россия
