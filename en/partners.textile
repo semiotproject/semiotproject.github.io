@@ -5,11 +5,11 @@ permalink: /en/partners/
 group: en
 ---
 
-h3. Laboratory ISST
+h3. ISST Laboratory
 
 p<>. International scientific laboratory "Information Science and Semantic Technologies" (ISST) was founded at the end of 2013 year at the ITMO University.
 
-Web-site: "http://isst.ifmo.ru/en/":http://isst.ifmo.ru/en/
+Web-site: "http://isst.ifmo.ru":http://isst.ifmo.ru
 
 h3. ITMO University
 
