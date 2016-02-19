@@ -7,7 +7,7 @@ group: en
 
 h4. Demonstrations
 
-* "Air temperature value and changes monitoring":{{ site.url }}/unequal-temp-changes-demo/
+* "Air temperature value and changes monitoring in Moscow and Saint-Petersburg":{{ site.url }}/unequal-temp-changes-demo/
 
 h4. Project reports ^*^
 
