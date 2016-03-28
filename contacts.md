@@ -5,23 +5,23 @@ permalink: /contacts/
 group: ru
 ---
 
-p<>. По всем вопросам писать на электронную почту: "semiotproject@gmail.com":mailto:semiotproject@gmail.com
+По всем вопросам писать на электронную почту: [semiotproject@gmail.com](mailto:semiotproject@gmail.com)
 
-h4. Руководитель проекта
+#### Руководитель проекта
 
 к.т.н., доцент Муромцев Дмитрий Ильич
 руководитель лаборатории ISST
 Университет ИТМО
-"mouromtsev@mail.ifmo.ru":mailto:mouromtsev@mail.ifmo.ru
+[mouromtsev@mail.ifmo.ru](mailto:mouromtsev@mail.ifmo.ru)
 
-h4. Ответственный исполнитель
+#### Ответственный исполнитель
 
 Колчин Максим Александрович
 сотрудник лаборатории ISST
 Университет ИТМО
-"kolchinmax@niuitmo.ru":mailto:kolchinmax@niuitmo.ru
+[kolchinmax@niuitmo.ru](mailto:kolchinmax@niuitmo.ru)
 
-h3. Адрес
+### Адрес
 
 Университет ИТМО
 197101, Санкт-Петербург, пр. Кронверкский, д.49, ауд. 366
