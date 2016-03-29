@@ -100,8 +100,7 @@ ul {
 	display: block;
 	float: right;
 	font-size: 14px;
-	height: 30px;
-	line-height: 45px;
+	line-height: 65px;
 }
 #main-logo a.switch-locale:hover {
 	text-decoration: none;
