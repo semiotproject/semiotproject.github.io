@@ -8,7 +8,9 @@
 <header class="site-header">
 	<div class="wrapper">
 		<div id="main-logo">
-			<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+			<a class="site-title" href="{{ site.baseurl }}/">
+				<img src="/logo.png" alt="SemIoT" class="logo">
+			</a>
 			<a href="{{ site.data.locales[locale].switch_lang_url }}{{ current }}" class="switch-locale">
 				<img class="l18n-flag" src="{{ site.data.locales[locale].switch_lang_img }}" alt="{{ site.data.locales[locale].switch_lang_message }}"/>
 				<span>{{ site.data.locales[locale].switch_lang_message }}</span>

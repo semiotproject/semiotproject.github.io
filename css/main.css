@@ -3,6 +3,11 @@ blockquote {
 	text-align: justify;
 }
 
+.logo {
+    height: 40px;
+}
+
+
 .home .home-desc p {
 	text-align: justify;
 }
