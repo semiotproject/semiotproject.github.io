@@ -17,9 +17,7 @@ group: ru
 
 Веб-сайт: [http://www.ifmo.ru/](http://www.ifmo.ru/)
 
-```html
 <div class="embedded-iframe"><iframe src="//www.youtube.com/embed/JOoz9HB5sSU" frameborder="0" allowfullscreen></iframe></div>
-```
 
 ### ЗАО "Морские Компьютерные Системы"
 
