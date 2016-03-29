@@ -7,7 +7,7 @@ group: ru
 
 #### Демонстрации
 
-* [Мониторинг изменения и трендов температуры в Москве и Санкт-Петербурге]({{ site.url }}/unequal-temp-changes-demo/)
+* [Мониторинг изменения и трендов температуры в Москве и Санкт-Петербурге](https://w3id.org/semiot/demos/temperature-in-city)
 
 #### Проектные отчеты
 
@@ -22,8 +22,7 @@ group: ru
 
 * Этап №3 Теоретические исследования поставленных перед ПНИ задач (очередь 2)
   * Отчет о ПНИ (промежуточный)
-  * Отчет о маркетинговых исследованиях
-  * Научно-технический отчет о работах, выполненных за счет ВБС
+  * Отчет о патентных исследованиях
 
 * Этап №4 Экспериментальные исследования поставленных перед ПНИ задач
   * Отчет о ПНИ (промежуточный)
@@ -32,11 +31,15 @@ group: ru
   * Отчет о ПНИ (итоговый)
   * Проект ТЗ на ОКР
 
-#### Публикации и постеры
+#### Публикации
 
-* Презентация постера &laquo;An Implementation of CoAP protocol for Arduino and ESP8266&raquo; [<i class="fa fa-download"></i>(Скачать)](https://fruct.org/sites/default/files/files/conference17/02.pdf)
 * Maxim Kolchin and Peter Wetz &laquo;Demo: YABench – Yet Another RDF Stream Processing Benchmark&raquo; // Proceedings of RDF Stream Processing Workshop at ESWC 2015 [<i class="fa fa-download"></i>(Скачать)](https://www.w3.org/community/rsp/files/2015/05/RSP_Workshop_2015_submission_14.pdf)
 * Maxim Kolchin, Nikolay Klimov, Alexey Andreev, Ivan Shilin, Daniil Garayzuev, Dmitry Mouromtsev and Danil Zakoldaev &laquo;Ontologies for Web of Things: a Pragmatic Review&raquo; // Knowledge Engineering and Semantic Web, 2015, pp. 102-116 [<i class="fa fa-download"></i>(Скачать)](http://dx.doi.org/10.1007/978-3-319-24543-0_8)
+* Ekaterina Balandina, Sergey Balandin, Yevgeni Koucheryavy, Dmitry Mouromtsev, &laquo;IoT Use Cases in Healthcare and Tourism&raquo; // Proceedings of the 17th IEEE Conference on Business Informatics (CBI 2015), 2015. [<i class="fa fa-download"></i>(Скачать)](http://dx.doi.org/10.1109/CBI.2015.16)
+* Maxim Kolchin, Peter Wetz, Elmar Kiesling, A Min Tjoa, &laquo;YABench: A comprehensive framework for RDF stream processor correctness and performance assessment&raquo; // Proc. of the 16th International Conference of Web Engineering (ICWE 2016), 2016 (in press)
+
+#### Постеры и презентации
+* Презентация постера &laquo;An Implementation of CoAP protocol for Arduino and ESP8266&raquo; [<i class="fa fa-download"></i>(Скачать)](https://fruct.org/sites/default/files/files/conference17/02.pdf)
 * Постер &laquo;Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper&raquo;, Международная конференция Knowledge Engineering and Semantic Web 2015 [<i class="fa fa-download"></i>(Скачать)](http://2015.kesw.ru/resources/semdesc_helper.pdf)
 
 #### Мероприятия
