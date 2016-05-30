@@ -50,7 +50,9 @@ ul {
 	padding-left: 15px;
 }
 
-img {}
+img {
+    max-width: 100%;
+}
 
 .bold {
 	font-weight: bold;
