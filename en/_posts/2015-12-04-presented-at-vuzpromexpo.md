@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Results of 2015 year presented at exhibition &laquo;VUSPROMEXPO-2015&raquo;
+title: Results of 2015 year presented at exhibition "VUSPROMEXPO-2015"
 lang: en
 published: true
 ---
