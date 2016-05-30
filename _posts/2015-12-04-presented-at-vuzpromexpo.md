@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Результаты работ за 2015-й год были представлены на выставке &laquo;ВУЗПРОМЭКСПО-2015&raquo;
+lang: ru
 published: true
 ---
 

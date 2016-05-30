@@ -3,8 +3,6 @@ layout: default
 title: SemIoT Project
 ---
 
-{% assign posts=site.posts | where:"lang", "en" %}
-
 <div class="home">
 
   <div class="home-desc">
@@ -16,20 +14,22 @@ title: SemIoT Project
     <b>Interoperability</b> is a property of a product or system, whose interfaces are completely understood, to work with other products or systems, present or future, without any restricted access or implementation.
     </blockquote>
   </div>
-  
+
+
+
   <hr/>
-
+  <h3>News</h3>
   <ul class="post-list">
-    {% for post in posts %}
+    {% for post in site.posts %}
+    {% if post.lang == 'en' %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%m-%d-%Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
+    {% endif %}
     {% endfor %}
   </ul>
+  <hr/>
 
   <div class="home-footer">
     <a class="partner-logo" href="http://минобрнауки.рф/static/ministry_eng.html">
