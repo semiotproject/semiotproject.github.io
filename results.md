@@ -7,7 +7,7 @@ group: ru
 
 #### Демонстрации
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnYTfri89HY?hl=ru&cc_lang_pref=ru&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+[Мониторинг изменения и трендов температуры в Москве и Санкт-Петербурге]({{ site.url }}/unequal-temp-changes/)
 
 #### Проектные отчеты
 
