@@ -7,7 +7,7 @@ group: en
 
 #### Demonstrations
 
-* "Air temperature value and changes monitoring in Moscow and Saint-Petersburg":{{ site.url }}/unequal-temp-changes-demo/
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gnYTfri89HY?hl=en&cc_lang_pref=en&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
 
 #### Project reports
 
