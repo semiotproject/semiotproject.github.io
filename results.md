@@ -56,7 +56,9 @@ A Case Study Using a Semantic IoT Platform&raquo; // Proceedings of 18th Confere
 * [Международная конференция FRUCT 2015](https://fruct.org/program17), г. Ярославль, Россия
 * [Международная конференция Extended Semantic Web Conference 2015](http://2015.eswc-conferences.org/) ([Семинар RDF Stream Processing](https://www.w3.org/community/rsp/rsp-workshop-2015/)), г. Порторож, Словения
 * [Международная конференция Knowledge Engineering and Semantic Web 2015](http://2015.kesw.ru/), г. Москва, Россия
+* [Выставка АВТОМАТИЗАЦИЯ-2106](http://farexpo.ru/ais/exhibition/about/), г. Санкт-Петербург, Россия
 
 #### Патенты, свидетельства
 
 * Свидетельство о государственной регистрации программы для ЭВМ №2015660433 &laquo;Система сбора, нормализации и анализа гетерогенных данных сенсорной сети &laquo;SemIoT Platform&raquo; [<i class="fa fa-download"></i> (Скачать)]({{ site.url }}/resources/results/patent_semiot_platform.pdf)
+* Свидетельство о государственной регистрации программы для ЭВМ №2016661151 &laquo;Программный модуль конфигурирования и предоставления доступа к данным электронных устройств &laquo;SemIoT Device SDK&raquo; [<i class="fa fa-download"></i> (Скачать)]({{ site.url }}/resources/results/patent_semiot_device_sdk.pdf)
