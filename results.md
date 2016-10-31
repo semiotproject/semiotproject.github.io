@@ -26,7 +26,7 @@ group: ru
   * Акт сдачи-приёмки работ [<i class="fa fa-download"></i> (Скачать)]({{ site.url }}/resources/results/stage_3_act.pdf)
 
 * Этап №4 Экспериментальные исследования поставленных перед ПНИ задач
-  * Отчет о ПНИ (промежуточный)
+  * Отчет о ПНИ (промежуточный) [<i class="fa fa-download"></i> (Скачать)]({{ site.url }}/resources/results/stage_4_intermediate_report.pdf)
 
 * Этап №5 Обощение и оценка результатов исследований
   * Отчет о ПНИ (итоговый)
